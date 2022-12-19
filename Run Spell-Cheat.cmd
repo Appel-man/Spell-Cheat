@@ -1,0 +1,1 @@
+python Spell-Cheat.py
