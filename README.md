@@ -5,7 +5,8 @@
 # Made By: Abeloos/Abeloser
 # Roblox Profile: https://www.roblox.com/users/246043225/profile
 # YouTube Channel: https://www.youtube.com/channel/UCyv3T6e_IgU2ZdPk686XX-Q
-# GitHub: https://github.com/Abeloser
+# GitHub Profile: https://github.com/Abeloser
+# This GitHub Page: https://github.com/Abeloser/Spell-Cheat
 #
 # File Version: 1.1.3
 # Language: Python
@@ -31,11 +32,14 @@
 ##
 ## OPTION 2:
 ## Use the "Run Spell-Cheat.cmd" file.
-## Don't have it? Go to my github page on the top of this information and
+## Don't have it? Go to this github page on the top of this information and
 ## download it.
 ## Can't find it? Save this text as a .cmd file "python Spell-Cheat.py" and put
 ## it in the same location/folder/map/directory (all the same)
 ##
+## !! NOTE !!
+## !! THE "Run Spell-Cheat.cmd" MUST ALWAYS BE IN THE SAME LOCATION/FOLDER/MAP/
+## DIRECTORY OR THAT FILE WONT OPEN/WORK !!
 #
 # File Name: Spell-Cheat
 # File Description:
